@@ -1,6 +1,6 @@
 {
   "name": "podcaster",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Mini-aplicación SPA para escuchar podcasts musicales (prueba técnica front-end Inditex)",
   "author": "yeradrod <jydiazrguez@gmail.com>",
