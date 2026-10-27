@@ -1,0 +1,622 @@
+{
+  "feed": {
+    "entry": [
+      {
+        "im:name": {
+          "label": "The Joe Budden Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/21/fa/f221fabd-017f-5125-633b-f1fe4f39802a/mza_182995249085044287.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/21/fa/f221fabd-017f-5125-633b-f1fe4f39802a/mza_182995249085044287.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/21/fa/f221fabd-017f-5125-633b-f1fe4f39802a/mza_182995249085044287.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Tune into Joe Budden and his friends. Follow along the crazy adventures of these very random friends."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© All rights reserved"
+        },
+        "title": {
+          "label": "The Joe Budden Podcast - The Joe Budden Network"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-joe-budden-podcast/id1535809341?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-joe-budden-podcast/id1535809341?uo=2",
+          "attributes": {
+            "im:id": "1535809341"
+          }
+        },
+        "im:artist": {
+          "label": "The Joe Budden Network",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-joe-budden-network/1535844019?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1310",
+            "term": "Music",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music/id1310?uo=2",
+            "label": "Music"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-24T02:00:00-07:00",
+          "attributes": {
+            "label": "October 24, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Takin’ A Walk Nashville"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/7e/22/c87e2272-75f5-c266-f5c2-ccc5fd8ffdc8/mza_12630026749783970871.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/7e/22/c87e2272-75f5-c266-f5c2-ccc5fd8ffdc8/mza_12630026749783970871.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/7e/22/c87e2272-75f5-c266-f5c2-ccc5fd8ffdc8/mza_12630026749783970871.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Takin' A Walk Nashville is the Nashville music podcast celebrating every genre born in the heart of Music City, and every band's journey that shaped it. Hosted by singer-songwriter Sarah Harralson, the show brings an insider's perspective to Nashville's vibrant, ever-evolving music scene, from country and Americana to rock, R&B and beyond.\n\nSarah's background as an artist gives her a unique connection with her guests, creating intimate, candid conversations that go deeper than a typical interview. Whether she's sitting down with legendary Nashville veterans, musicians on call for causes close to home, or emerging artists on the rise, Sarah Harralson draws out the stories behind the songs.\n\nGuests include Caylee Hammack, T. Graham Brown, Skip Ewing, Jenn Johnson, Whey Jennings, Will Paquin and Alex Miller.\n\nA spin-off of the flagship Takin' A Walk with Buzz Knight, Takin' A Walk Nashville digs deeper into Nashville music history and Nashville's music legacy, from the Ryman to CMA Fest.\n\n🎬 Watch Sarah's new short film, Just The Beginning:\n\nhttps://youtube.com/playlist?list=OLAK5uy_lYinpXNoShjDDa2L2iMko2G7dOWD-FyVSc&si=z72WqzbI1knwhi-x\n\nTakin' A Walk Nashville is produced by Buzz Knight Media Productions.\n\nAlso from BKMP on iHeart Podcasts:\n\n🎸 Takin' A Walk, hosted by Buzz Knight\n\n🎵 Music Saved Me, hosted by Lynn Hoffman\n\n😂 Comedy Saved Me, hosted by Lynn Hoffman\n\n🎙️ Jersey Made, hosted by Buzz Knight, exploring New Jersey's influence on American music history"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+        },
+        "title": {
+          "label": "Takin’ A Walk Nashville - Buzz Knight Media Productions"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/takin-a-walk-nashville/id1846859935?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/takin-a-walk-nashville/id1846859935?uo=2",
+          "attributes": {
+            "im:id": "1846859935"
+          }
+        },
+        "im:artist": {
+          "label": "Buzz Knight Media Productions"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1524",
+            "term": "Music History",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-history/id1524?uo=2",
+            "label": "Music History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-15T02:00:00-07:00",
+          "attributes": {
+            "label": "October 15, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Jersey Made"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/3d/91/0d3d91fe-e6b6-4bb7-5f40-582a6e766424/mza_5545446087988169389.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/3d/91/0d3d91fe-e6b6-4bb7-5f40-582a6e766424/mza_5545446087988169389.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/3d/91/0d3d91fe-e6b6-4bb7-5f40-582a6e766424/mza_5545446087988169389.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Jersey Made is the music history podcast that asks how one small state shaped the soundtrack of America. Host Buzz Knight,  dives into New Jersey music history: the iconic venues, legendary songwriters and historic studios that created the Jersey sound.\n\nFrom Sinatra and Springsteen to Bon Jovi, Whitney Houston and Frankie Valli, and from the Stone Pony in Asbury Park to the punk and indie roots of the Jersey music scene, each episode brings firsthand stories from the New Jersey musicians who shaped the sound, and the people who were there when it happened.\n\nGuests include Brian Fallon of The Gaslight Anthem, Brian Williams and Danny Clinch.\n\nWhether you're a lifelong fan of New Jersey music or just discovering its treasures, Jersey Made celebrates the local talent that made the Garden State a cornerstone of American music.\n\nJersey Made is produced by Buzz Knight Media Productions and available on iHeartPodcasts. Executive Producer Vinny Steves\n\nAlso from BKMP on iHeart Podcasts:\n\n🎸 Takin' A Walk, hosted by Buzz Knight\n\n🎵 Music Saved Me, hosted by Lynn Hoffman\n\n😂 Comedy Saved Me, hosted by Lynn Hoffman\n\n🤠 Takin' A Walk Nashville, hosted by Sarah Harralson"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+        },
+        "title": {
+          "label": "Jersey Made - Buzz Knight | Music History Podcast Host"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/jersey-made/id6807140302?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/jersey-made/id6807140302?uo=2",
+          "attributes": {
+            "im:id": "6807140302"
+          }
+        },
+        "im:artist": {
+          "label": "Buzz Knight | Music History Podcast Host"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1524",
+            "term": "Music History",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-history/id1524?uo=2",
+            "label": "Music History"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-21T04:40:00-07:00",
+          "attributes": {
+            "label": "October 21, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Music Saved Me Podcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/9d/45/e99d45d6-cbaf-8a53-ccbc-12a0cafed3d5/mza_1767439482503301478.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/9d/45/e99d45d6-cbaf-8a53-ccbc-12a0cafed3d5/mza_1767439482503301478.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/9d/45/e99d45d6-cbaf-8a53-ccbc-12a0cafed3d5/mza_1767439482503301478.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Music Saved Me is the podcast where inspiring music icons, emerging artists and healing voices share the moments music changed their lives. Hosted by Lynn Hoffman, the Music Saved Me podcast brings you personal stories of musicians who were transformed by the power of music.\n\nEvery episode traces an artist's journey: a band's journey through breakup and reinvention, an indie music story of hard-won discovery, a viral music success that changed everything, or the song that got someone through their lowest point. Along the way, Lynn explores healing through music, and the surprising ways music and emotional healing connect, including music's growing role in mental health.\n\nLynn brings warmth and curiosity to every conversation, spotlighting musicians who give back, nonprofits like Musicians On Call doing meaningful work, and the inspiring music icons who remind us why music matters.\n\nGuests include Trey Lewis, Brad Wolfe, Jon Lampley, John Beltzer, Riley Smithson and Antoinette Costa.\n\nMusic Saved Me is produced by Buzz Knight Media Productions.\n\nAlso from BKMP on iHeart Podcasts:\n\n🎸 Takin' A Walk, hosted by Buzz Knight\n\n😂 Comedy Saved Me, hosted by Lynn Hoffman\n\n🎵 Takin' A Walk Nashville, hosted by Sarah Harralson\n\nJersey Made Hosted by Buzz Knight\n\nWhat song saved you? Tell us in the comments, and if an episode moved you, please leave a review."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia"
+        },
+        "title": {
+          "label": "Music Saved Me Podcast - Buzz Knight Media Productions"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/music-saved-me-podcast/id1703080557?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/music-saved-me-podcast/id1703080557?uo=2",
+          "attributes": {
+            "im:id": "1703080557"
+          }
+        },
+        "im:artist": {
+          "label": "Buzz Knight Media Productions"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1525",
+            "term": "Music Interviews",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-interviews/id1525?uo=2",
+            "label": "Music Interviews"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-21T02:00:00-07:00",
+          "attributes": {
+            "label": "October 21, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Vic Mensa Show"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/20/b0/4c20b0d3-c077-4c82-cf90-672fd7f5f5d8/mza_3587765940574900504.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/20/b0/4c20b0d3-c077-4c82-cf90-672fd7f5f5d8/mza_3587765940574900504.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/20/b0/4c20b0d3-c077-4c82-cf90-672fd7f5f5d8/mza_3587765940574900504.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "Vic Mensa has done it all. Music with Justin Bieber, Pharrell and Jay-Z. Roles on Showtime's The Chi and Peacock's Bel-Air. And a fervor for speaking hard truths, even if the world isn't ready. What some saw as a problem turned out to be his purpose. His award-winning Orange Tree Series is now The Vic Mensa Show, a video-first sit-down at the intersection of politics and culture. Stories over statistics. Roast the powerful, never the victim. He is the format. New episodes every Wednesday starting August 26, wherever you get your podcasts. Pull up."
+        },
+        "im:artist": {
+          "label": "Mass Appeal & ORANJ"
+        },
+        "title": {
+          "label": "The Vic Mensa Show - Mass Appeal & ORANJ"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/the-vic-mensa-show/id6800160324?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/the-vic-mensa-show/id6800160324?uo=2",
+          "attributes": {
+            "im:id": "6800160324"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1310",
+            "term": "Music",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music/id1310?uo=2",
+            "label": "Music"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-21T15:15:00-07:00",
+          "attributes": {
+            "label": "October 21, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Popcast"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/61/f3/ed61f32a-d457-8cda-3444-d4c6bece6e33/mza_11706990639249263276.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/61/f3/ed61f32a-d457-8cda-3444-d4c6bece6e33/mza_11706990639249263276.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/61/f3/ed61f32a-d457-8cda-3444-d4c6bece6e33/mza_11706990639249263276.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "The New York Times’s weekly pop culture chat show, with interviews and analysis from the critic Jon Caramanica and the reporter Joe Coscarelli.\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© 2023 The New York Times Company"
+        },
+        "title": {
+          "label": "Popcast - The New York Times"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/popcast/id120315823?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/popcast/id120315823?uo=2",
+          "attributes": {
+            "im:id": "120315823"
+          }
+        },
+        "im:artist": {
+          "label": "The New York Times",
+          "attributes": {
+            "href": "https://podcasts.apple.com/us/artist/the-new-york-times/121664449?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1523",
+            "term": "Music Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-commentary/id1523?uo=2",
+            "label": "Music Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-23T02:00:00-07:00",
+          "attributes": {
+            "label": "October 23, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Techy Tekki Trance, Techno, and Euphoric Hardstyle"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/d9/77/17d9774a-d5f4-d2c6-e412-d4e7514bec43/mza_7484530401719006075.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/d9/77/17d9774a-d5f4-d2c6-e412-d4e7514bec43/mza_7484530401719006075.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/d9/77/17d9774a-d5f4-d2c6-e412-d4e7514bec43/mza_7484530401719006075.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "A one hour collection of chart topping Dance music mostly in the Trance, Techno, House, and Hardstyle genres. Blended in a seamless 1 hour mix w/commentary - this mix is designed to take you on a journey to some of the best songs in the House, Techno, Trance styles - with a harder (Faster) style song at the end. A labor of love for Patrick Brown - who mixes in his Gilbert, Arizona home or while traveling, to share good vibes with dance music lovers around the world.   All communication can be via email to patochan@bassfaced.com   ---- \n\nIf you liked the tracks — please support the artist — that’s why I always list the tracks.\n\n((HUGS))                    \n\nAll rights to the original music belong to the respective copyright holders. Tracks are used under fair promotional use and no revenue is generated by this podcast.    The artists deserve to be compensated directly - please click on the provided links, follow, share, and support their craft."
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "rights": {
+          "label": "© Copyright 2026 Techy Tekki Trance, Techno, and Euphoric Hardstyle"
+        },
+        "title": {
+          "label": "Techy Tekki Trance, Techno, and Euphoric Hardstyle - DJ Patochan"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/techy-tekki-trance-techno-and-euphoric-hardstyle/id1807824696?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/techy-tekki-trance-techno-and-euphoric-hardstyle/id1807824696?uo=2",
+          "attributes": {
+            "im:id": "1807824696"
+          }
+        },
+        "im:artist": {
+          "label": "DJ Patochan"
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1523",
+            "term": "Music Commentary",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-commentary/id1523?uo=2",
+            "label": "Music Commentary"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-22T05:00:00-07:00",
+          "attributes": {
+            "label": "October 22, 2026"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Celebrity Jobber Podcast with Jeff Zito"
+        },
+        "im:price": {
+          "label": "Get",
+          "attributes": {
+            "amount": "0",
+            "currency": "USD"
+          }
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cf/a7/65/cfa7650a-ad9d-178e-2594-69643520da09/mza_9510204016625394232.jpg/55x55bb.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cf/a7/65/cfa7650a-ad9d-178e-2594-69643520da09/mza_9510204016625394232.jpg/60x60bb.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cf/a7/65/cfa7650a-ad9d-178e-2594-69643520da09/mza_9510204016625394232.jpg/170x170bb.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "summary": {
+          "label": "CELEBRITY JOBBER WITH JEFF ZITO\nBefore the red carpets, sold-out arenas, and household names, there was a first shift, a bad uniform, a time clock—and a dream that hadn’t paid off yet.\n\nIn sports and entertainment, a “jobber” is the hardworking journeyman who keeps showing up, takes the hits, and waits for an opportunity that may never come. Rocky was a jobber—a struggling fighter given one impossible shot to prove he belonged.\n\nEvery celebrity has faced a version of that moment.\n\nVeteran talk-radio personality Jeff Zito sits down with actors, musicians, athletes, comedians, and cultural icons to uncover the lives they were living before fame found them. What was their first job? How close did they come to giving up? Who finally opened the right door? And had that one big break never arrived, where would they be today?\n\nThese are funny, honest, and sometimes surprising conversations about awful bosses, embarrassing paychecks, rejection, perseverance, luck, and the thin line separating a familiar face from someone still waiting for their chance.\n\nWere they always destined to become rich and famous?\n\nOr were they almost a jobber?\n\nCelebrity Jobber with Jeff Zito—because every success story begins before anyone knows your name.\n\n\n\n\n\n\n\n\n\n \n\n\n \n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n "
+        },
+        "im:artist": {
+          "label": "Podcast Playground"
+        },
+        "title": {
+          "label": "Celebrity Jobber Podcast with Jeff Zito - Podcast Playground"
+        },
+        "link": {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://podcasts.apple.com/us/podcast/celebrity-jobber-podcast-with-jeff-zito/id1644147062?uo=2"
+          }
+        },
+        "id": {
+          "label": "https://podcasts.apple.com/us/podcast/celebrity-jobber-podcast-with-jeff-zito/id1644147062?uo=2",
+          "attributes": {
+            "im:id": "1644147062"
+          }
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Podcast",
+            "label": "Podcast"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "1525",
+            "term": "Music Interviews",
+            "scheme": "https://podcasts.apple.com/us/genre/podcasts-music-music-interviews/id1525?uo=2",
+            "label": "Music Interviews"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2026-10-23T14:00:00-07:00",
+          "attributes": {
+            "label": "October 23, 2026"
+          }
+        }
+      }
+    ]
+  }
+}
