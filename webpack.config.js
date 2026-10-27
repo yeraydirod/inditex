@@ -26,7 +26,8 @@ module.exports = (_env, argv) => {
       extensions: ['.tsx', '.ts', '.js'],
       alias: { '@': path.resolve(__dirname, 'src') },
     },
-    devtool: isProduction ? 'source-map' : 'eval-cheap-module-source-map',
+    // En desarrollo se evita la familia "eval" para que el bundle sea código legible sin minimizar.
+    devtool: isProduction ? 'source-map' : 'cheap-module-source-map',
     module: {
       rules: [
         {
