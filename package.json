@@ -1,0 +1,13 @@
+{
+  "name": "podcaster",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mini-aplicación SPA para escuchar podcasts musicales (prueba técnica front-end Inditex)",
+  "author": "yeradrod <jydiazrguez@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {}
+}
