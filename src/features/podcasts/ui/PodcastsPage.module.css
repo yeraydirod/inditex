@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  column-gap: var(--space-4);
+  row-gap: var(--space-6);
+  margin: 0;
+  padding: var(--space-6) 0 0;
+  list-style: none;
+}

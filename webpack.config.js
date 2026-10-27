@@ -69,7 +69,12 @@ module.exports = (_env, argv) => {
       minimizer: [new TerserPlugin(), new CssMinimizerPlugin()],
       splitChunks: isProduction ? { chunks: 'all' } : false,
     },
-    performance: { hints: isProduction ? 'warning' : false },
+    // react-dom + react-router superan los 244 KiB por defecto; se fija un umbral realista.
+    performance: {
+      hints: isProduction ? 'warning' : false,
+      maxAssetSize: 400 * 1024,
+      maxEntrypointSize: 400 * 1024,
+    },
     devServer: {
       port: 3000,
       historyApiFallback: true,

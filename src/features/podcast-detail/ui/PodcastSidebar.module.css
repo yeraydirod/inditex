@@ -1,0 +1,48 @@
+.sidebar {
+  padding: var(--space-3);
+}
+
+.imageLink {
+  display: block;
+  padding: var(--space-2) var(--space-4) var(--space-3);
+}
+
+.image {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.section {
+  padding: var(--space-3) var(--space-2);
+  border-top: 1px solid var(--color-border);
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.title a,
+.author a {
+  color: inherit;
+}
+
+.author {
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.descriptionTitle {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.description {
+  margin-top: var(--space-1);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--color-text-muted);
+  overflow-wrap: anywhere;
+}

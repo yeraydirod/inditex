@@ -1,0 +1,31 @@
+.episode {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding: var(--space-4);
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.description {
+  font-style: italic;
+  font-size: 0.95rem;
+  overflow-wrap: anywhere;
+}
+
+.description p + p {
+  margin-top: var(--space-2);
+}
+
+.description a {
+  text-decoration: underline;
+}
+
+.player {
+  width: 100%;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border);
+}

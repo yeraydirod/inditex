@@ -1,0 +1,9 @@
+.layout {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 var(--space-4) var(--space-5);
+}
+
+.main {
+  padding-top: var(--space-4);
+}
