@@ -62,8 +62,7 @@ module.exports = (_env, argv) => {
         'process.env.CORS_PROXY_URL': JSON.stringify(process.env.CORS_PROXY_URL ?? ''),
       }),
       new ForkTsCheckerWebpackPlugin(),
-      isProduction &&
-        new MiniCssExtractPlugin({ filename: 'css/[name].[contenthash:8].css' }),
+      isProduction && new MiniCssExtractPlugin({ filename: 'css/[name].[contenthash:8].css' }),
     ].filter(Boolean),
     optimization: {
       minimize: isProduction,

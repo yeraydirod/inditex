@@ -20,7 +20,7 @@
     "paths": {
       "@/*": ["src/*"]
     },
-    "types": []
+    "types": ["jest"]
   },
-  "include": ["src"]
+  "include": ["src", "jest.setup.ts"]
 }
