@@ -32,7 +32,10 @@ module.exports = (_env, argv) => {
         {
           test: /\.[jt]sx?$/,
           exclude: /node_modules/,
-          use: 'babel-loader',
+          use: {
+            loader: 'babel-loader',
+            options: { envName: isProduction ? 'production' : 'development' },
+          },
         },
         {
           test: /\.css$/,
